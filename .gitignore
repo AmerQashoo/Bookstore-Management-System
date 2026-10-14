@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Bookstore data files
+books.txt
+books.txt.bak
+
+# Compiled program
+bookstore
+bookstore.exe
