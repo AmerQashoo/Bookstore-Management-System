@@ -1,6 +1,3 @@
-/*ID: 1241585
-NAME: AMER QASHOO
-SECTION: LAB:3 / DISCUSSION: 6 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
